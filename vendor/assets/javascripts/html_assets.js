@@ -1,0 +1,1 @@
+window.HTML_Assets = window.HTML_Assets || {};
